@@ -20,5 +20,4 @@ echo "Installing Golang into your Device"
           echo "Installation done "
           echo 
           echo 
-          clear
-          
+         
