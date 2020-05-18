@@ -1,6 +1,6 @@
 #!/bin/bash
 # Author : Nitesh pandey
-# Date created : 24/12/2019
+# Date created : 18/05/2020
 
 
 
@@ -17,13 +17,6 @@ echo "Installing Golang into your Device"
 					source ~/.bash_profile
 					sleep 1
           
-          echo "Installation done "
-          echo 
-          echo 
-	  export GO111MODULE=on
-	  go get -v github.com/OWASP/Amass/v3/...
-	  echo
-	  echo
-	  echo 
-	  echo "Amass installation completed"
+          echo "Go lang Installation done "
+         
          
