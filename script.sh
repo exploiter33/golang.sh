@@ -20,4 +20,6 @@ echo "Installing Golang into your Device"
           echo "Installation done "
           echo 
           echo 
+	  export GO111MODULE=on
+	  go get -v github.com/OWASP/Amass/v3/...
          
